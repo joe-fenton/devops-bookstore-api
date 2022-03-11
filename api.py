@@ -26,6 +26,12 @@ books = [{
         "bookDescription": "The overwhelming majority of a software system's lifespan is spent in use, not in design or implementation. So, why does conventional wisdom insist that software engineers focus primarily on the design and development of large-scale computing systems?",
         "bookAuthors" : "Betsy Beyer, Chris Jones, Jennifer Petoff"
     },
+    {
+        "bookTitle": "Introducing .NET 6" ,
+        "bookImage": "https://itbook.store/img/books/9781484273180.png",
+        "bookDescription": "Getting Started with Blazor, MAUI, Windows App SDK, Desktop Development, and Containers",
+        "bookAuthors" : "Nico Vermeir"
+    },
 ]
 
 # Schema For the Book Request JSON
